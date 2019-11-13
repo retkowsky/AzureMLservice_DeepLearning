@@ -1,4 +1,4 @@
-# AzureMLservice_DeepLearning
+# Azure ML service Deep Learning
 Deep Learning examples with Azure ML service
 
 Pour en savoir plus sur Azure ML Service :
